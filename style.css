@@ -33,6 +33,9 @@ figcaption {
   display: block;
 
 }
+p{
+  text-align: center;
+}
 div{
   background-color: navy;
   text-align: center;
