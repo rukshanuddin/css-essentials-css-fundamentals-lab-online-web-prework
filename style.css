@@ -27,5 +27,5 @@ figcaption {
   width: 800px;
 }
 #details{
-  display: inline-table;
+  display: block;
 }
