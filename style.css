@@ -20,7 +20,7 @@ figcaption {
 
 nav a {
   padding: 0 10px;
-  background-color: grey;
+  background-color: skyblue;
   margin: 0 auto;
 }
 
@@ -32,7 +32,7 @@ nav a {
 
 #details div{
   float: left;
-  background-color: red;
+  background-color: navy;
   width: 25%;
   text-align: center;
 }
