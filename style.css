@@ -13,28 +13,26 @@ img {
   display: block;
   margin: 0 auto;
 }
-
-section{
-  text-align: center;
-}
+nav,
 figcaption {
-  font-size: 14px;
   text-align: center;
 }
-#featured-property{
-  text-align: center;
-  width: 800px;
-}
-#details{
-  display: block;
 
+nav a {
+  padding: 0 10px;
+  background-color: grey;
+  margin: 0 auto;
 }
-p{
+
+#featured-property p {
+  width: 800px;
   text-align: center;
+  margin: 0 auto;
 }
-div{
-  background-color: navy;
-  text-align: center;
+
+#details div{
   float: left;
+  background-color: red;
   width: 25%;
+  text-align: center;
 }
