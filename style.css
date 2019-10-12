@@ -18,6 +18,9 @@ figure {
   display: block;
   width: 90%;
 }
+section{
+  text-align: center;
+}
 figcaption {
   font-size: 14px;
   text-align: center;
