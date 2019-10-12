@@ -1,37 +1,44 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-}
 
 h1{
   text-align: center;
 }
-
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: center;
+  background-color: skyblue;
+  margin: 0 auto;
+}
+body {
+  width: 100%;
+  height: 100%;
+  margin: auto;
+}
 img {
   display: block;
   margin: 0 auto;
 }
-nav,
+section{
+  text-align: center;
+}
 figcaption {
+  font-size: 14px;
   text-align: center;
 }
-
-nav a {
-  padding: 0 10px;
-  background-color: grey;
-  margin: 0 auto;
-}
-
-#featured-property p {
+#featured-property{
+  text-align: center;
   width: 800px;
-  text-align: center;
-  margin: 0 auto;
 }
+#details{
+  display: block;
 
-#details div{
-  float: left;
-  background-color: red;
-  width: 25%;
+}
+p{
   text-align: center;
+}
+div{
+  background-color: navy;
+  text-align: center;
+  float: left;
+  width: 25%;
 }
